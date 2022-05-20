@@ -2,7 +2,7 @@
 
 # Networked Data Lab: NDL Wales satellite project on Clinically Extremely Vulnerable (CEV) people
 
-#### Project Status: In progess
+#### Project Status: Completed
 
 ## Project Description
 
